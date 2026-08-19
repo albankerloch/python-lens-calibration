@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8513)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8513)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8514)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8514)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8515)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8515)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8516)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8516)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8517)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8517)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8518)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8518)",
+      "Bash(.venv/Scripts/python.exe -m streamlit run src/app.py --server.headless true --server.port 8519)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:8519)"
+    ]
+  }
+}
