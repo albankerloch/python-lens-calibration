@@ -1,6 +1,9 @@
 
 data/
 calibration_input/
+video_input/
+video_output/
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -4,3 +4,7 @@ numpy
 matplotlib
 opencv-python-headless
 streamlit-image-coordinates
+requests
+runwayml>=5.24.0
+python-dotenv
+OpenEXR

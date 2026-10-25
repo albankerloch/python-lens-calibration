@@ -1,0 +1,1 @@
+Match the reference image: replace the kitchen set and the lighting with those of the reference image, warm tungsten light from the upper right and deep shadows. Do not change the actor's face, body, pose or clothing. Widescreen, no cuts. Keep everything else the same.

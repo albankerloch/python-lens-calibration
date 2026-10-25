@@ -1,0 +1,9 @@
+Keep the actor exactly as in the source: same face, hair, beard, expression, head movement, coat, framing and camera motion. Do not alter performance or timing.
+
+Make the man look physically present in the cave, as if filmed there: the cave light wraps around his hair, shoulders and the edge of his face; a soft cool rim light from the brighter rock behind him; subtle contact shadow and ambient occlusion on the rock near his body; faint cool reflections of the cave on his coat and skin; his edges blend naturally into the background with slight haze between him and the rock.
+
+Match optics and texture: same depth of field for actor and rock, same fine film grain, same softness and contrast; unified cool blue-grey palette, natural slightly desaturated skin.
+
+Stabilize hair edges, no frame-to-frame flicker or shimmer.
+
+No new objects, lights, text, cuts, stylization, or changes to the actor's face or body.
